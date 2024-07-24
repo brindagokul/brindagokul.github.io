@@ -1,3 +1,3 @@
-# My Academic Website
+# Brinda Gokul
 
 
