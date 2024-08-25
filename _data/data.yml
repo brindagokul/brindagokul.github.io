@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Brinda A. Gokul
     tagline: PhD Candidate Information and Scientific Computing
-    avatar: bg_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: # bg_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: bgokul@umich.edu
