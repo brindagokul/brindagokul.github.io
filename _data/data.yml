@@ -183,13 +183,13 @@ skills:
 
     toolset:
       - name: Python
-        level: 98%
+        level: 90%
 
       - name: R
-        level: 98%
+        level: 70%
 
       - name: Stata
-        level: 98%
+        level: 50%
 
 
 footer: >
