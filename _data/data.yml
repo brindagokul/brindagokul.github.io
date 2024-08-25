@@ -42,7 +42,7 @@ education:
     info:
     - degree: PhD in Information and Scientific Computing
         university: University of Michigan 
-        time: 2020 - 2025 (Expected)
+        time: 2020 - 2025
       - degree: MS in Health Infrastructures and Learning Systems
         university: University of Michigan Medical School
         time: 2018 - 2019
@@ -54,7 +54,7 @@ experiences:
     title: Experiences
     info:
       - role: Research Associate
-        time: June 2024 - Present
+        time: 2024 - 
         company: Center for Global Security Research, Lawrence Livermore National Laboratory
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -69,7 +69,7 @@ experiences:
             - Bullet point
             - Bullet point
       - role: Research Intern
-        time: June 2023 - May 2024
+        time: 2023 - 2024
         company: Modeling and Simulation Group, Oak Ridge National Laboratory
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
