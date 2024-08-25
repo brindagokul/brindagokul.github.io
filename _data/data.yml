@@ -40,15 +40,15 @@ career-profile:
 education:
     title: Education
     info:
-    - degree: PhD in Information and Scientific Computing
-        university: University of Michigan 
-        time: 2020 - 2025
-      - degree: MS in Health Infrastructures and Learning Systems
-        university: University of Michigan Medical School
-        time: 2018 - 2019
-      - degree: BA in Political Science (Minor in Human Rights)
-        university: University of Washington
-        time: 2011 - 2015
+        - degree: PhD in Information and Scientific Computing
+            university: University of Michigan 
+            time: 2020 - 2025
+        - degree: MS in Health Infrastructures and Learning Systems
+            university: University of Michigan Medical School
+            time: 2018 - 2019
+        - degree: BA in Political Science (Minor in Human Rights)
+            university: University of Washington
+            time: 2011 - 2015
 
 experiences:
     title: Experiences
