@@ -158,7 +158,7 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
+skills: #
     title: Skills &amp; Proficiency
 
     toolset:
