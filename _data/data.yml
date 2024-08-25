@@ -19,28 +19,16 @@ sidebar:
     twitter: '@BrindaGokul'
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Social Network Analysis and Simulations
           link:
 
-        - item: Snowboarding
+        - item: Poverty and Corruption
           link:
 
-        - item: Cooking
+        - item: Fragility, Conflict and Violence
           link:
 
 career-profile:
