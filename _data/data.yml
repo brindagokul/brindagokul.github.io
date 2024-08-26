@@ -105,13 +105,13 @@ projects:
 
 oss-contributions:
       title: Teaching
-        - item: Models of Social Information Processes 
+        - project-title: Models of Social Information Processes 
       
-        - item: Data Manipulation and Analysis 
+        - project-title: Data Manipulation and Analysis 
        
-        - item: Introduction to Statistics and Data Analysis 
+        - project-title: Introduction to Statistics and Data Analysis 
        
-        - item: Data Manipulation 
+        - project-title: Data Manipulation 
 
 publications:
     title: Select Publications
