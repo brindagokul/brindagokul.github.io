@@ -106,10 +106,18 @@ projects:
 certifications:
       title: Teaching
       list:
-        - name: Models of Social Information Processes (Undergraduate Applied Networks and Game Theory)
-        - name: Data Manipulation and Analysis (Graduate)
-        - name: Introduction to Statistics and Data Analysis (Graduate)
-        - name: Data Manipulation (Undergraduate)
+        - name: Models of Social Information Processes 
+        - details: |
+          Undergraduate Applied Networks and Game Theory
+        - name: Data Manipulation and Analysis 
+        - details: |
+            Graduate
+        - name: Introduction to Statistics and Data Analysis 
+        - details: |
+            Graduate
+        - name: Data Manipulation 
+        - details: |
+            Undergraduate
 
 publications:
     title: Select Publications
