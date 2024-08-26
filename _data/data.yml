@@ -106,13 +106,12 @@ projects:
 oss-contributions:
       title: Teaching
         - item: Models of Social Information Processes 
-        - project-tagline: Undergraduate Applied Networks and Game Theory
+      
         - item: Data Manipulation and Analysis 
-        - project-tagline: Graduate
+       
         - item: Introduction to Statistics and Data Analysis 
-        - project-tagline: Graduate
+       
         - item: Data Manipulation 
-        - project-tagline: Undergraduate
 
 publications:
     title: Select Publications
