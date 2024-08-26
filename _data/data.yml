@@ -50,34 +50,34 @@ education:
         university: University of Washington
         time: 2011 - 2015
 
-experiences:
+Professional Experience:
     title: Experiences
     info:
-      - role: Research Associate
-        time: 2024 - 2025
+      - role: Doctoral Research Associate
+        time: 2024 - Present
         company: Center for Global Security Research, Lawrence Livermore National Laboratory
+        details: |
+          Empirical and theory driven transformation of doctoral research into humane and
+          tailored policy recommendations for national security. 
 
-      - role: Research Intern
+      - role: Doctoral Research Intern
         time: 2023 - 2024
         company: Modeling and Simulation Group, Oak Ridge National Laboratory
+        details: |
+          Text inference of noisy and sparce Arabic data to English for dissertation work.  
    
-      - role: Research Assistant (Consultant)
+      - role: Research Analyst (Consultant)
         time: 2014 - 2018
         company: World Bank
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+          Prior to graduate studies, I worked across World Bank groups and sectors including the Development Economics Research
+          Group, Health Financing, Poverty and Inequality, and Conflict, Fragility and Violence as a research analyst. 
+          The cross-cutting nature of this work has greatly influenced the interdisciplinary and policy relevant 
+          focus of my research, while primarily working with Bank economists on fragility, conflict and violence as part
+          of my dissertation work.
+Work in Progress:
+    title: Current Projects
+
     assignments:
       - title: Velocity
         link: "#hook"
@@ -104,20 +104,16 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: The Art of Computer Programming
+      - title: "Core-Crust Model of Organized Corruption"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Brinda Gokul
+        conference: In Submission
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Drug-Eluting Stent Use Among Low-Income Patients in Maharashtra After Statewide Price Reductions: Lessons for India?"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: B. Duggal, <B. Gokul>, M. Duggal, S. Saunik, P. Singh, A. Agrawal, K. Singh, P. Wadhera, R. Anupindi, B. K. Nallamothu
+        conference: "Circulation: Cardiovascular Interventions, 2019"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 
 footer: >
