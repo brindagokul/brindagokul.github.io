@@ -77,27 +77,25 @@ Professional Experience:
           of my dissertation work.
 Work in Progress:
     title: Current Projects
+    intro: |
 
     assignments:
-      - title: Velocity
+      - title: Loyalty in Covert Networks
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: 
 
-      - title: DevStudio
+      - title: Covert Hierarchies
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: #"A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: The State of Terrorism (Policy Brief)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: #"A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: Identifying Cells
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: #"A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 publications:
