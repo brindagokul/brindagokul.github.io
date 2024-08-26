@@ -38,7 +38,12 @@ career-profile:
     summary: 
       I am a 5th year PhD Candidate in Information and Scientific Computing at the University of Michigan working at the
       intersection of networks, simulation, crime and policy. My work explores illicit organization network formation and
-      structural resilience for tailored policy recommendations. 
+      structural resilience for tailored policy recommendations. Through leveraging multiple data sources, I have identified
+      a novel network structure commonly found in clandestine criminal and corruption networks that results in organizational
+      resilience during covert operations (paper in submission). Furthering this classification, 
+      my research focuses on the role of leadership, covert hierarchies, and optimal human resource allocation in rendering
+      criminal organizations difficult to identify and combat through existing criminal justice and national security policies.
+      
 education:
     title: Education
     info:
@@ -107,7 +112,7 @@ publications:
       - title: "Core-Crust Model of Organized Corruption"
         link: "#"
         authors: Brinda Gokul
-        conference: Political Networks (PolNet 2024), Political Methodology (POLMETH 2024), <i>In Submission</i>
+        conference:  <i>In Submission</i>Political Networks, presented at (PolNet 2024), Political Methodology (PolMeth 2024)
 
       - title: "Drug-Eluting Stent Use Among Low-Income Patients in Maharashtra After Statewide Price Reductions: Lessons for India?"
         link: "#"
