@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Brinda A. Gokul
-    tagline: PhD Candidate Information and Scientific Computing
+    tagline: PhD Candidate in Information and Scientific Computing
     avatar: bg_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -22,17 +22,19 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Social Network Analysis and Simulations
+        - item: Social Network Simulation and Analysis
           link:
 
-        - item: Poverty and Corruption
+        - item: Inequality, Crime and Corruption
           link:
 
         - item: Fragility, Conflict and Violence
           link:
+          
+        - item: Management and Organizations
 
 career-profile:
-    title: Career Profile 
+    title:  Research 
     summary: |
       I am a 5th year PhD Candidate in Information and Scientific Computing at the University of Michigan working at the
       intersection of networks, simulation, crime and policy. My work explores illicit organization network formation and
@@ -51,7 +53,7 @@ education:
         time: 2011 - 2015
 
 Professional Experience:
-    title: Experiences
+    title: Professional Experience
     info:
       - role: Doctoral Research Associate
         time: 2024 - Present
@@ -75,8 +77,8 @@ Professional Experience:
           The cross-cutting nature of this work has greatly influenced the interdisciplinary and policy relevant 
           focus of my research, while primarily working with Bank economists on fragility, conflict and violence as part
           of my dissertation work.
-Work in Progress:
-    title: Current Projects
+Current Research:
+    title: Current Research
     intro: |
 
     assignments:
