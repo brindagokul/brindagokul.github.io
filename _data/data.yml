@@ -52,7 +52,7 @@ education:
         university: University of Washington
         time: 2011 - 2015
 
-Professional Experience:
+professional-experience:
     title: Professional Experience
     info: |
       - role: Doctoral Research Associate
@@ -77,7 +77,7 @@ Professional Experience:
           The cross-cutting nature of this work has greatly influenced the interdisciplinary and policy relevant 
           focus of my research, while primarily working with Bank economists on fragility, conflict and violence as part
           of my dissertation work.
-Current Research:
+current-research:
     title: Current Research
     intro: |
 
