@@ -35,7 +35,7 @@ sidebar:
 
 career-profile:
     title:  Research 
-    summary: |
+    summary: 
       I am a 5th year PhD Candidate in Information and Scientific Computing at the University of Michigan working at the
       intersection of networks, simulation, crime and policy. My work explores illicit organization network formation and
       structural resilience for tailored policy recommendations. 
@@ -54,7 +54,7 @@ education:
 
 experiences:
     title: Professional Experience
-    info: |
+    info: 
       - role: Doctoral Research Associate
         time: 2024 - Present
         company: Center for Global Security Research, Lawrence Livermore National Laboratory
