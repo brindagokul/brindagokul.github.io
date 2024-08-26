@@ -20,7 +20,7 @@ sidebar:
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     interests:
-      title: Interests
+      title: Research Interests
       info:
         - item: Social Network Simulation and Analysis
           link:
@@ -103,7 +103,7 @@ projects:
         link: "#"
         tagline: #"A comprehensive website template solution for startups/developers to market their mobile apps."
 
-teaching:
+oss:
     title: Teaching
     info: 
     courses:
