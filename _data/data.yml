@@ -103,7 +103,7 @@ projects:
         link: "#"
         tagline: #"A comprehensive website template solution for startups/developers to market their mobile apps."
 
-certifications:
+oss-contributions:
       title: Teaching
       list:
         - name: Models of Social Information Processes 
