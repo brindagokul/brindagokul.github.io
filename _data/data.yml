@@ -105,7 +105,7 @@ projects:
 
 teaching:
     title: Teaching
-    intro: |
+    info: 
     courses:
       - title: Models of Social Information Processes (Undergraduate Applied Networks and Game Theory)
       - title: Data Manipulation and Analysis (Graduate)
