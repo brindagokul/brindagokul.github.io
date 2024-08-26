@@ -103,14 +103,13 @@ projects:
         link: "#"
         tagline: #"A comprehensive website template solution for startups/developers to market their mobile apps."
 
-oss:
-    title: Teaching
-    info: 
-    courses:
-      - title: Models of Social Information Processes (Undergraduate Applied Networks and Game Theory)
-      - title: Data Manipulation and Analysis (Graduate)
-      - title: Introduction to Statistics and Data Analysis (Graduate)
-      - title: Data Manipulation (Undergraduate)
+certifications:
+      title: Teaching
+      list:
+        - name: Models of Social Information Processes (Undergraduate Applied Networks and Game Theory)
+        - name: Data Manipulation and Analysis (Graduate)
+        - name: Introduction to Statistics and Data Analysis (Graduate)
+        - name: Data Manipulation (Undergraduate)
 
 publications:
     title: Select Publications
