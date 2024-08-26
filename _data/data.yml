@@ -100,8 +100,8 @@ Current Research:
 
 
 
-publications:
-    title: Publications
+select publications:
+    title: Select Publications
     intro: |
     papers:
       - title: "Core-Crust Model of Organized Corruption"
