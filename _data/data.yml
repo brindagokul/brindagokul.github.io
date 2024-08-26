@@ -100,7 +100,7 @@ projects:
 
 
 
-select publications:
+publications:
     title: Select Publications
     intro: |
     papers:
