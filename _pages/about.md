@@ -35,10 +35,9 @@ adapt, and expand. My research sits at the intersection of global security studi
 social science, and the study of non-state actors.
 
 Within this broader domain, I study the organizational strategies and structural signatures of covert
-networks such as ISIS, drug cartels, terrorist financiers, and human smuggling rings. My work has
-been in collaboration with institutions such as the World Bank, Oak Ridge National Laboratory,
-Lawrence Livermore National Laboratory, and the Office of the Director of National Intelligence
-(ODNI). A central thread across my work is an effort to support intelligence-led policymaking
+networks such as ISIS, drug cartels, terrorist financiers, and human smuggling rings. My doctoral work has
+been in collaboration with institutions such as the World Bank, Oak Ridge National Laboratory, and
+Lawrence Livermore National Laboratory. A central thread across my work is an effort to support intelligence-led policymaking
 through empirically grounded, methodologically rigorous research. I combine theoretical insights
 from political science and economics with methods from computer science to advance both our
 scholarly understanding and practical approaches to transnational threats. I am currently com-
