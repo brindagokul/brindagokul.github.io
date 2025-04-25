@@ -6,7 +6,7 @@ subtitle: PhD Candidate, Information and Scientific Computing, University of Mic
 
 profile:
   align: right
-  image: profpic.jpg
+  image: D951A7E2-DF8E-41AE-84F0-D9CC654A885B_1_102_o.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>105 S. State St.</p>
