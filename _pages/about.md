@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: #/
-subtitle: email: bgokul@umich.edu
+permalink: /
+subtitle: PhD Candidate, Information and Scientific Computing, University of Michigan
 
 profile:
   align: right
