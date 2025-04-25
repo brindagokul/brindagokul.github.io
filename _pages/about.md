@@ -40,9 +40,10 @@ been in collaboration with institutions such as the World Bank, Oak Ridge Nation
 Lawrence Livermore National Laboratory. A central thread across my work is an effort to support intelligence-led policymaking
 through empirically grounded, methodologically rigorous research. I combine theoretical insights
 from political science and economics with methods from computer science to advance both our
-scholarly understanding and practical approaches to transnational threats. I am currently com-
-pleting my Ph.D. at the University of Michigan in Information and Scientific Computing and will
-join the National Security Data and Policy Institute at the University of Virginia as a Postdoctoral
+scholarly understanding and practical approaches to transnational threats. 
+
+I am currently completing my Ph.D. at the University of Michigan in Information and Scientific Computing and will
+be joining the National Security Data and Policy Institute at the University of Virginia as a Postdoctoral
 Research Associate for 2025–2026.
 
 
