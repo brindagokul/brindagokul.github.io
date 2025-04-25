@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, Department of Communication Studies, UT Austin
-
+subtitle: PhD Candidate, Information and Scientific Computing, University of Michigan
 profile:
   align: left
   image: prof_pic.png
