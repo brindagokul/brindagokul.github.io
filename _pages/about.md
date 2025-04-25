@@ -24,8 +24,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a computational social scientist working at the intersection of political violence, network sci-
-ence, and national security policy. My research focuses on how transnational criminal and extremist
+I am a computational social scientist working at the intersection of political violence, network science, and national security policy. 
+My research focuses on how transnational criminal and extremist
 networks structure themselves to coordinate recruitment, financing, and operations while avoiding
 detection by state authorities. While these networks are often perceived as opaque or chaotic, I
 find that they are deliberately structured to balance concealment, efficiency, and resilience. Using
