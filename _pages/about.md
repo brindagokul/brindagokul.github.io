@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Michigan</a>. email: bgokul@umich.edu
+subtitle: email: bgokul@umich.edu
 
 profile:
   align: right
